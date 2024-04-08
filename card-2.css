@@ -1,0 +1,79 @@
+.carton{
+    display:flex;
+    justify-content:space-between;
+    align-items: center;
+    margin:100px;
+    }
+    
+    .card2{
+    width: 400px;
+    height:500px;
+    border-radius:15px;
+    background-color:#202020;
+    box-shadow: 10px 5px 5px red;
+    }
+
+    .gameimage{
+        width: 390px;
+        border-radius: 10px;
+        margin-top: 20px;
+    }
+
+    .text-main{
+        text-align: center;
+        color:#fff;
+        font-family: "Poppins", sans-serif;
+        font-weight: 600;
+        font-size: 25px;;
+    }
+
+    .desc{
+        font-family: "Poppins", sans-serif;
+        color:#fff;
+        font-weight: 200;
+        font-size: 15px;
+        text-align: center;
+    }
+
+    .btncard{
+        border: 1px solid #eee;
+        border-radius: 50px;
+        box-shadow: rgba(2, 47, 124, 0.664) 0 0 1px 0, rgba(3, 36, 92, 0.548) 0 3px 4px 0;
+        height: 50px;
+        line-height: 50px;
+        margin-top: .7em;
+        padding: 0 25px;
+        text-decoration: none;
+        will-change: transform;
+    }
+
+    
+        .card3{
+        width: 400px;
+        height:500px;
+        border-radius:15px;
+        background-color:#202020;
+        box-shadow: 10px 5px 5px red;
+        }
+    
+        .gameimage{
+            width: 390px;
+            border-radius: 10px;
+            margin-top: 20px;
+        }
+
+        .desc-borne{
+            font-size:13px;
+            font-family: "Poppins", sans-serif;
+            color:#fff;
+            font-weight: 200;
+            text-align:center;
+        }
+
+        .desc-p{
+            font-size: 12px;
+            font-family: "Poppins", sans-serif;
+            color:#fff;
+            font-weight: 200;
+            text-align:center;
+        }

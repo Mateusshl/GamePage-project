@@ -1,0 +1,29 @@
+.main-container{
+    display: flex;
+    justify-content: right;
+}
+
+.gaming{
+    border-radius: 15px;
+    filter: blur(1px);
+    height: 80%;
+    width: 90%;
+    margin:15px;
+}
+
+.text-maincontainer{
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-size: 25px;
+    color: #fff;
+}
+
+.iconcontainer{
+    color:red;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.iconcontainer a:hover{
+    color:white;
+}
